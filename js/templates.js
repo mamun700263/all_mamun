@@ -8,3 +8,4 @@ let navbar_container = document.getElementById("navbar_container")
       navbar_container.innerHTML = data;
     });
 
+alert("hello")
